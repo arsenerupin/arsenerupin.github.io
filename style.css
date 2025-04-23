@@ -2,6 +2,7 @@
 }
 #duck {
   display:none;
+  position: absolute;
 }
 area {
   cursor:pointer;
