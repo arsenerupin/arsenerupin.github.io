@@ -2,12 +2,14 @@ body {
   margin:0;
 }
 #img_map {
+  user-select: none;
 }
 .popImg {
   position: absolute;
   top: 0;
   left: 0;
   height: 540px;
+  user-select: none;
 }
 #duck {
   display:none;
