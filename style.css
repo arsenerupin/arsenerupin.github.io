@@ -1,5 +1,7 @@
+body {
+  margin:0;
+}
 #img_map {
-  position: relative;
 }
 .popImg {
   position: absolute;
