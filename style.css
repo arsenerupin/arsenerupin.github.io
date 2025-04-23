@@ -8,7 +8,7 @@ body {
   position: fixed;
   top: 0;
   left: 0;
-  height: 540px;
+  max-width: 100%;
   user-select: none;
 }
 #duck {
