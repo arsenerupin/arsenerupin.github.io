@@ -1,5 +1,8 @@
 #img_map {
 }
+#duck {
+  display:none;
+}
 area {
   cursor:pointer;
 }
