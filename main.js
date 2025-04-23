@@ -1,3 +1,3 @@
 function popImg(){
-  alert("hi")
+  document.getElementById("duck").style.display="block";
 }
