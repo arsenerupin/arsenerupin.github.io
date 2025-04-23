@@ -1,8 +1,12 @@
 #img_map {
 }
+.popImg {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+}
 #duck {
   display:none;
-  position: absolute;
 }
 area {
   cursor:pointer;
