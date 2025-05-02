@@ -5,14 +5,12 @@ body {
   user-select: none;
 }
 .popImg {
+  display: none;
   position: fixed;
   top: 0;
   left: 0;
   max-width: 100%;
   user-select: none;
-}
-#duck {
-  display:none;
 }
 area {
   cursor:pointer;
